@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
+import Image from "next/image";
 import { Phone } from "lucide-react";
 
 export default function CTA() {
@@ -10,17 +11,25 @@ export default function CTA() {
 
   return (
     <section className="py-20 lg:py-24 relative overflow-hidden">
-      {/* Navy gradient background */}
-      <div className="absolute inset-0"
-        style={{ background: "linear-gradient(135deg, #0F1B4D 0%, #1E3A8A 50%, #1D4ED8 100%)" }} />
+      {/* Office background photo */}
+      <div className="absolute inset-0">
+        <Image
+          src="/images/office.jpg"
+          alt="Law office"
+          fill
+          className="object-cover"
+          quality={85}
+        />
+        {/* Dark navy overlay */}
+        <div className="absolute inset-0"
+          style={{ background:"linear-gradient(135deg, rgba(10,22,60,0.93) 0%, rgba(15,27,77,0.9) 50%, rgba(29,78,216,0.85) 100%)" }} />
+        {/* Dot pattern */}
+        <div className="absolute inset-0 pattern-dots opacity-[0.06]" />
+      </div>
+
       {/* Blue radial glow */}
       <div className="absolute inset-0 pointer-events-none"
-        style={{ background: "radial-gradient(ellipse at 20% 60%, rgba(59,130,246,0.2) 0%, transparent 55%)" }} />
-      {/* Light blue glow right */}
-      <div className="absolute inset-0 pointer-events-none"
-        style={{ background: "radial-gradient(ellipse at 80% 30%, rgba(96,165,250,0.15) 0%, transparent 50%)" }} />
-      {/* Dot pattern */}
-      <div className="absolute inset-0 pattern-dots opacity-[0.08]" />
+        style={{ background:"radial-gradient(ellipse at 20% 60%, rgba(59,130,246,0.18) 0%, transparent 55%)" }} />
 
       <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <motion.div initial={{ opacity:0, y:30 }} whileInView={{ opacity:1, y:0 }}
@@ -38,13 +47,8 @@ export default function CTA() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-8">
             <a href="tel:+380671234567"
               className="flex items-center gap-2.5 px-8 py-4 rounded-xl text-base font-bold w-full sm:w-auto justify-center shimmer-btn transition-all hover:scale-105"
-              style={{
-                background: "white",
-                color: "#1D4ED8",
-                boxShadow: "0 8px 28px rgba(255,255,255,0.2)",
-              }}>
-              <Phone size={16} />
-              {t("primary")}
+              style={{ background:"white", color:"#1D4ED8", boxShadow:"0 8px 28px rgba(255,255,255,0.2)" }}>
+              <Phone size={16}/>{t("primary")}
             </a>
             <Link href="/contact"
               className="btn-outline-white flex items-center gap-2.5 px-8 py-4 rounded-xl text-base font-semibold w-full sm:w-auto justify-center">
