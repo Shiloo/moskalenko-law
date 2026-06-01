@@ -1,0 +1,176 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "cases": "Cases",
+    "prices": "Pricing",
+    "contact": "Contact",
+    "consultation": "Free Consultation"
+  },
+  "banner": {
+    "text": "First 15 minutes of consultation — free of charge. Available 24/7.",
+    "cta": "Call Now"
+  },
+  "home": {
+    "hero": {
+      "badge": "Criminal Defense Lawyer",
+      "tagline": "Trust. Protected by Experience.",
+      "title1": "Your defense —",
+      "title2": "my responsibility",
+      "subtitle": "Yulia Moskalenko — a criminal defense attorney with 30+ years of experience handling cases of any complexity. Over 500 cases. 97% successful outcomes. Your defense starts here.",
+      "cta_primary": "Get Defense Now",
+      "cta_secondary": "Learn More",
+      "available": "Available 24/7",
+      "free": "First 15 min free",
+      "scroll": "Scroll down"
+    },
+    "stats": {
+      "title": "Results That Speak for Themselves",
+      "subtitle": "Over 30 years of defending people's rights in criminal cases",
+      "years": "Years of Practice",
+      "cases": "Cases Closed",
+      "rate": "Successful Outcomes",
+      "clients": "Clients Defended"
+    },
+    "services": {
+      "title": "Defense Practice Areas",
+      "subtitle": "Comprehensive legal defense across all categories of criminal cases",
+      "cta": "All Services"
+    },
+    "whyus": {
+      "title": "Why Choose Me",
+      "subtitle": "Every case is a person's fate. I approach it with maximum responsibility and expertise.",
+      "items": [
+        { "title": "30+ Years of Practice", "desc": "Practice in courts of all levels, including the Supreme Court of Ukraine and ECHR" },
+        { "title": "Individual Approach", "desc": "No templates — only a personal defense strategy tailored specifically to your case" },
+        { "title": "Full Confidentiality", "desc": "Absolute attorney-client privilege. All data is protected by law and personal responsibility" },
+        { "title": "24/7 Availability", "desc": "Detained at night or on weekends? I am always reachable and available at any time" },
+        { "title": "Transparent Terms", "desc": "Clear contract, fair pricing with no hidden fees, regular case progress updates" },
+        { "title": "Proven Results", "desc": "Acquittals, sentence reductions, case dismissals — 97% positive outcomes" }
+      ]
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "subtitle": "Words from people I have helped"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most common questions about criminal defense",
+      "items": [
+        { "q": "What should I do if I was detained by police?", "a": "Demand a lawyer immediately and do not give any statements without one. Call me right away — I will come and provide your defense from the very first minute of detention." },
+        { "q": "Is it possible to be released from custody before trial?", "a": "Yes. I challenge the legality of detention and prepare motions to change the preventive measure to bail or house arrest. In most of my cases, clients are released." },
+        { "q": "How much does criminal defense cost?", "a": "The cost depends on the complexity of the case and the scope of work. The first consultation is free. Afterward I will give you an accurate estimate and we will find the best option together." },
+        { "q": "Do you take cases where the prosecution has a strong case?", "a": "Those are exactly the cases I specialize in. Even with a large evidence base, there are always procedural violations or mitigating circumstances that can and must be used." },
+        { "q": "How quickly can you take on my case?", "a": "Urgently. I accept cases without delay. If my presence is needed today — I will be there today." }
+      ]
+    },
+    "cta": {
+      "title": "Does Your Situation Require Immediate Defense?",
+      "subtitle": "Every hour at the start of a case can change its outcome. Don't wait.",
+      "primary": "Call Now",
+      "secondary": "Leave a Request"
+    }
+  },
+  "services": {
+    "title": "Legal Services",
+    "subtitle": "Full spectrum of criminal defense services",
+    "items": [
+      { "title": "Defense in Murder & Serious Crime Cases", "desc": "Defense in cases involving murder, bodily harm, robbery, armed robbery. Full support from detention to verdict.", "details": ["Challenging detention", "Gathering defense evidence", "Witness examination", "Motion to change preventive measure", "Court hearing appearances"] },
+      { "title": "Drug-Related Offenses", "desc": "Defense in cases involving possession, distribution, and production of narcotics. Verification of operative and investigative measures.", "details": ["Verifying legality of search", "Challenging entrapment", "Analysis of chemical expert reports", "Downgrading criminal charge", "Suspended sentence or acquittal"] },
+      { "title": "Economic Crimes", "desc": "Fraud, embezzlement, tax evasion, money laundering. Defense for entrepreneurs and officials.", "details": ["Financial document analysis", "Engaging financial experts", "Protecting assets from seizure", "Negotiating with prosecutors", "Full business defense strategy"] },
+      { "title": "Corruption Cases", "desc": "Defense in bribery, abuse of office, and corruption cases. Specialization in NABU and SAP cases.", "details": ["Defense in NABU/SAP cases", "Challenging bribery entrapment", "Analysis of operative materials", "HACC hearing attendance", "International corruption cases"] },
+      { "title": "Appeals & Sentence Challenges", "desc": "Appealing verdicts in appellate and Supreme courts. Reopening cases based on newly discovered circumstances.", "details": ["Analysis of court ruling", "Appellate complaint", "Cassation complaint", "ECHR application", "Review based on new circumstances"] },
+      { "title": "Pre-trial Detention & Bail", "desc": "Challenging the legality of arrest, motions for bail, house arrest, and change of preventive measure.", "details": ["Challenging arrest in court", "Bail motion", "House arrest", "Lifting travel ban", "Permission to travel abroad"] },
+      { "title": "Legal Consultations & Analysis", "desc": "Legal consultation on criminal matters, case material analysis, risk assessment, and defense strategy.", "details": ["Criminal risk assessment", "Evidence base analysis", "Witness consultation", "Legal position in the case", "Consultation during searches"] }
+    ]
+  },
+  "about": {
+    "title": "About the Attorney",
+    "name": "Yulia Moskalenko",
+    "role": "Criminal Defense Lawyer",
+    "bio": "For over 30 years I have devoted myself to defending the rights of people in criminal cases of any complexity. From the early steps in my career to high-profile resonant cases — I always put the client's interests first.",
+    "bio2": "I believe every person deserves a fair defense, regardless of the nature of the charge. My duty is to ensure that right with maximum dedication and professionalism.",
+    "experience": {
+      "title": "Experience & Education",
+      "items": [
+        { "year": "1990", "text": "Graduated with honors from Taras Shevchenko National University of Kyiv, Faculty of Law" },
+        { "year": "1993", "text": "Obtained attorney's certificate, admitted to the Ukrainian Bar" },
+        { "year": "1993–2000", "text": "Practice at leading legal firms, developing specialization in criminal law" },
+        { "year": "2000", "text": "Opened own practice, first landmark acquittal verdict" },
+        { "year": "2008", "text": "Successful application to the European Court of Human Rights — a precedent in defendant rights protection" },
+        { "year": "2024", "text": "Over 500 successfully closed cases, 97% positive outcomes, recognized among Ukraine's top criminal defense attorneys" }
+      ]
+    },
+    "achievements": {
+      "title": "Achievements",
+      "items": [
+        "Acquittals in cases with maximum sentencing",
+        "Successful appeals in the Supreme Court of Ukraine",
+        "Cases before the European Court of Human Rights (ECHR)",
+        "Defense in NABU and Special Anti-Corruption Prosecutor cases",
+        "Member of the Kyiv Regional Bar Council",
+        "Speaker at international criminal law conferences"
+      ]
+    },
+    "values": {
+      "title": "My Principles",
+      "items": [
+        { "title": "Honesty", "desc": "I never promise guaranteed results. I always give a realistic, objective assessment of the case." },
+        { "title": "Dedication", "desc": "Your case is my priority. I am available for you at any time." },
+        { "title": "Competence", "desc": "Continuous improvement, analysis of court practice, participation in international conferences." }
+      ]
+    }
+  },
+  "cases": {
+    "title": "Case Categories",
+    "subtitle": "Full spectrum of criminal cases in which I have thirty years of experience",
+    "categories": [
+      { "title": "Crimes Against Persons", "cases": ["Murder (Art. 115 CC)", "Intentional serious bodily harm (Art. 121 CC)", "Torture (Art. 127 CC)", "Threat to kill (Art. 129 CC)", "Unlawful deprivation of liberty (Art. 146 CC)"] },
+      { "title": "Crimes Against Property", "cases": ["Theft (Art. 185 CC)", "Robbery (Art. 186 CC)", "Armed robbery (Art. 187 CC)", "Fraud (Art. 190 CC)", "Extortion (Art. 189 CC)"] },
+      { "title": "Drug-Related Offenses", "cases": ["Illegal possession (Art. 309 CC)", "Drug trafficking (Art. 307 CC)", "Production (Art. 307 CC)", "Inducement to use (Art. 315 CC)", "Drug smuggling (Art. 305 CC)"] },
+      { "title": "Economic Crimes", "cases": ["Tax evasion (Art. 212 CC)", "Money laundering (Art. 209 CC)", "Embezzlement (Art. 191 CC)", "Fictitious entrepreneurship (Art. 205 CC)", "Bankruptcy fraud (Art. 219 CC)"] },
+      { "title": "Corruption Offenses", "cases": ["Bribery (Art. 368 CC)", "Abuse of office (Art. 364 CC)", "Illicit enrichment (Art. 368-2 CC)", "Bribery of official (Art. 369 CC)", "Private sector corruption (Art. 368-3 CC)"] },
+      { "title": "Cybercrimes", "cases": ["Unauthorized access (Art. 361 CC)", "Malware (Art. 361-1 CC)", "Internet fraud (Art. 190 CC)", "Illegal data collection (Art. 362 CC)", "Cyberattacks (Art. 361-2 CC)"] }
+    ]
+  },
+  "prices": {
+    "title": "Service Pricing",
+    "subtitle": "Transparent pricing with no hidden fees. Exact cost determined together after consultation.",
+    "note": "* Prices listed are minimum rates. Final cost is determined after case material analysis.",
+    "free_note": "First 15-minute consultation — free of charge",
+    "items": [
+      { "title": "Consultation", "price": "from 500 UAH", "period": "per hour", "desc": "Detailed analysis of your situation, risk assessment, and recommendations for next steps", "features": ["Case material analysis", "Legal risk assessment", "Defense strategy", "Answers to your questions"], "cta": "Book Now", "highlight": false },
+      { "title": "Pre-Trial Support", "price": "from 5,000 UAH", "period": "per month", "desc": "Support during pre-trial investigation: searches, interrogations, investigative actions", "features": ["Presence at interrogations", "Challenging unlawful actions", "Gathering defense evidence", "Motion to change preventive measure", "Review of case materials"], "cta": "Discuss", "highlight": false },
+      { "title": "Court Defense", "price": "from 15,000 UAH", "period": "per case", "desc": "Full defense in first-instance court — from preparation to verdict", "features": ["Preparing legal position", "Court hearing appearances", "Witness and victim examination", "Motions and objections", "Final speeches", "Verdict appeal"], "cta": "Get Defense", "highlight": true },
+      { "title": "Appeal", "price": "from 8,000 UAH", "period": "per case", "desc": "Challenging verdicts in appellate court or Supreme Court of Ukraine", "features": ["Analysis of court ruling", "Appellate or cassation complaint", "Appellate hearing attendance", "Response to prosecution complaint", "ECHR application"], "cta": "File Appeal", "highlight": false },
+      { "title": "Full Representation", "price": "from 30,000 UAH", "period": "per case", "desc": "Comprehensive defense from detention to final verdict", "features": ["All pre-trial services", "Full court defense", "Appellate challenge", "Priority 24/7 access", "Unlimited consultations", "Personal defense strategy"], "cta": "Order Defense", "highlight": false }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Leave a request — I will call you back within 30 minutes",
+    "info": { "phone": "+38 (067) 123-45-67", "email": "julia.moskalenko@ukr.net", "address": "Kyiv, Ukraine", "hours": "24/7 — always reachable" },
+    "form": {
+      "title": "Leave a Request",
+      "name": "Your Name *", "name_placeholder": "John Smith",
+      "phone": "Phone *", "phone_placeholder": "+38 (0__) ___-__-__",
+      "email": "Email", "email_placeholder": "example@mail.com",
+      "service": "Service Type", "service_placeholder": "Select a service",
+      "services": ["Criminal case (serious offenses)", "Drug-related offenses", "Economic crimes", "Corruption cases", "Appeal / verdict challenge", "Preventive measure / arrest", "Consultation"],
+      "description": "Case Description", "description_placeholder": "Briefly describe your situation...",
+      "contact_method": "Preferred contact method",
+      "methods": ["Phone", "Telegram", "Email"],
+      "submit": "Send Request", "submitting": "Sending...",
+      "success_title": "Request Received!", "success_text": "I will contact you within 30 minutes. If the situation is urgent — call now.",
+      "error": "Sending error. Please try again or call directly."
+    },
+    "urgency": { "title": "Urgent Situation?", "text": "If you have been detained or a search is underway — call immediately!", "cta": "Call Now" }
+  },
+  "footer": {
+    "desc": "Criminal defense attorney with 30 years of experience. Defending clients' rights in Kyiv and across Ukraine.",
+    "links": "Navigation", "contacts": "Contacts",
+    "rights": "© 2024 Attorney Yulia Moskalenko. All rights reserved.",
+    "disclaimer": "Information on this website does not constitute legal advice. Consult an attorney for specific guidance."
+  }
+}
