@@ -38,7 +38,7 @@ export default function SectionHeader({ title, subtitle, centered = true, light 
         <div
           className="mt-4 h-[3px] w-12 rounded-full"
           style={{
-            background: "linear-gradient(90deg, #C4922A, #D4A84B)",
+            background: "linear-gradient(90deg, #1D4ED8, #3B82F6)",
             margin: centered ? "1rem auto 0" : "1rem 0 0",
           }}
         />
