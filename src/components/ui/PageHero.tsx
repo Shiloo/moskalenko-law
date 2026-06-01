@@ -15,7 +15,7 @@ export default function PageHero({ title, subtitle, badge }: Props) {
       {/* Office background photo */}
       <div className="absolute inset-0">
         <Image
-          src="/images/office.jpg"
+          src="/images/office.png"
           alt="Law office"
           fill
           className="object-cover object-center"

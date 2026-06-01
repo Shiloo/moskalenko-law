@@ -27,7 +27,7 @@ export default function PricesPage() {
             <div className="relative w-full max-w-xs mx-auto mb-14 rounded-2xl overflow-hidden shadow-xl"
               style={{ height:"200px" }}>
               <Image
-                src="/images/gavel.jpg"
+                src="/images/gavel.png"
                 alt="Judge gavel"
                 fill
                 className="object-cover object-center"

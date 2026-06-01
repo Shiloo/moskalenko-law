@@ -122,7 +122,7 @@ export default function Hero() {
               <div className="relative rounded-3xl overflow-hidden shadow-2xl"
                 style={{ boxShadow:"0 24px 64px rgba(37,99,235,0.18), 0 4px 16px rgba(10,14,26,0.08)" }}>
                 <Image
-                  src="/images/scales.jpg"
+                  src="/images/scales.png"
                   alt="Scales of Justice"
                   width={600}
                   height={450}

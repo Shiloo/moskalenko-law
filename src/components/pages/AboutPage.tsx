@@ -51,12 +51,12 @@ export default function AboutPage() {
                 {/*
                   ╔═══════════════════════════════════════════╗
                   ║  ЗАГЛУШКА — замінити фото Юлії:           ║
-                  ║  1. Помісти: public/images/yulia.jpg      ║
+                  ║  1. Помісти: public/images/yulia.png      ║
                   ║  2. Заміни LawyerPlaceholder на:          ║
                   ║  <div className="relative w-64 lg:w-72    ║
                   ║    rounded-2xl overflow-hidden shadow-2xl ║
                   ║    aspect-[3/4]">                         ║
-                  ║    <Image src="/images/yulia.jpg"         ║
+                  ║    <Image src="/images/yulia.png"         ║
                   ║      alt="Юлія Москаленко" fill           ║
                   ║      className="object-cover              ║
                   ║        object-top" />                     ║
@@ -129,7 +129,7 @@ export default function AboutPage() {
                 <div className="relative rounded-2xl overflow-hidden shadow-xl"
                   style={{ aspectRatio:"4/5" }}>
                   <Image
-                    src="/images/books.jpg"
+                    src="/images/books.png"
                     alt="Ukrainian law codes"
                     fill
                     className="object-cover"
