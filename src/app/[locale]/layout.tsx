@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const isUk = locale === "uk";
   return {
     title: isUk
-      ? "Адвокат Олексій Шило | Кримінальний захист у Києві"
-      : "Attorney Oleksiy Shylo | Criminal Defense Lawyer Kyiv",
+      ? "Адвокат Юлія Москаленко | Кримінальний захист у Києві"
+      : "Attorney Yulia Moskalenko | Criminal Defense Lawyer Kyiv",
     description: isUk
       ? "Досвідчений адвокат у кримінальних справах. 10+ років практики, 200+ справ. Київ. Дзвоніть 24/7."
       : "Experienced criminal defense lawyer. 10+ years practice, 200+ cases. Kyiv, Ukraine. Call 24/7.",
@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       type: "website",
       locale: isUk ? "uk_UA" : "en_US",
-      siteName: isUk ? "Адвокат Олексій Шило" : "Attorney Oleksiy Shylo",
+      siteName: isUk ? "Адвокат Юлія Москаленко" : "Attorney Yulia Moskalenko",
     },
   };
 }

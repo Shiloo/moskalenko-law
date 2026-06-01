@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Адвокат Олексій Шило | Criminal Defense Lawyer Kyiv",
+  title: "Адвокат Юлія Москаленко | Criminal Defense Lawyer Kyiv",
   description: "Кримінальний адвокат у Києві. Захист у справах будь-якої складності. Criminal defense lawyer in Kyiv. 10+ years experience.",
 };
 
